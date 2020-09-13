@@ -1,0 +1,1 @@
+Create the MyQuoteBook folder2.Create a file called “happiness.txt” and add a few quotesabout happiness to it3.Initialize your git repository and
